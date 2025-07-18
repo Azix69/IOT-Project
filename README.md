@@ -32,6 +32,7 @@ This project uses facial recognition to verify a user and trigger a smart lockin
 ## 📂 Folder Structure
 
 - Source code files
-- Project presentation 
+- Project presentation
+- Screenshots
 - This file
 
