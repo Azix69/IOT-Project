@@ -1,16 +1,16 @@
-# 🔐 Smart IoT Biometric Face Lock System
+# Smart IoT Biometric Face Lock System
 
 An affordable and secure face recognition-based smart lock system built using IoT technology and computer vision.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project uses facial recognition to verify a user and trigger a smart locking mechanism using IoT devices. It demonstrates how accessible components and open-source tools can work together to improve real-world home or office security.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time face detection and recognition
 - Lock/unlock triggered by a microcontroller
@@ -20,7 +20,7 @@ This project uses facial recognition to verify a user and trigger a smart lockin
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python (OpenCV for facial recognition)
 - Arduino / NodeMCU (for hardware logic)
@@ -29,4 +29,11 @@ This project uses facial recognition to verify a user and trigger a smart lockin
 - Figma (for wireframes and UI/UX planning)
 
 ---
+
+## 📂 Folder Structure
+
+/code                 # Source code files
+/presentation         # Project presentation 
+/images               # Screenshots or mockups 
+/README.md            # This file
 
