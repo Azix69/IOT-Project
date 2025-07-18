@@ -34,6 +34,5 @@ This project uses facial recognition to verify a user and trigger a smart lockin
 
 - Source code files
 - Project presentation 
-- Screenshots
 - This file
 
