@@ -24,7 +24,6 @@ This project uses facial recognition to verify a user and trigger a smart lockin
 
 - Python (OpenCV for facial recognition)
 - Arduino / NodeMCU (for hardware logic)
-- Firebase (optional, for data sync or auth)
 - HTML/CSS (for interface, if applicable)
 - Figma (for wireframes and UI/UX planning)
 
